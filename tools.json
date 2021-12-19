@@ -200,7 +200,20 @@
                         }
                     ]
                 }
+                            {
+                    "title": "vfat.tools",
+                    "url": "https://vfat.tools/harmony/defikingdoms/",
+                    "description": "UNOFFICIAL DEFI KINGDOMS FARMING CALCULATOR",
+                    "social": [
+                        {
+                            "type": "Twitter",
+                            "url": "https://twitter.com/vfat0"
+                        }
+                    ]
+                }
+            
             ]
+            
         }
     ]
 }
